@@ -1,2 +1,1 @@
-# Proyecto
-Proyecto total look
+#  Pagina WEB Programacion declarativa
